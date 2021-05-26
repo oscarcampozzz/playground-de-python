@@ -1,4 +1,4 @@
-#7. Mostrar con un while los números del 1 al 100
+#7. Mostrar con un while los numeros del 1 al 100
 
 
 a=3

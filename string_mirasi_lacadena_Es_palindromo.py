@@ -1,4 +1,4 @@
-#13. Pide una cadena e indica si es un palíndromo o no.
+#17. Pide una cadena e indica si es un palíndromo o no.
 
 cadena=input("Escribe la cadena")
 
