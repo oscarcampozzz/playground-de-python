@@ -1,6 +1,5 @@
-# 4 De dos números, saber cual es el mayor.
-
-
+# 4 De dos numeros, saber cual es el mayor.
+#la
 
 a=2
 b=6
